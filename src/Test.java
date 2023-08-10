@@ -4,13 +4,15 @@ public class Test {
         int sum = 0;
         for (int i = 0; i < mas.length; i++) {
             for (int j = 0; j < mas[i].length; j++) {
-               if(i == j){
-                   sum = sum+mas[i][j];
+                if(i == j){
+                    sum = sum+mas[i][j];
 
-               }
+                }
 
             }
         }
         System.out.print(sum);
     }
 }
+
+
