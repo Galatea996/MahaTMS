@@ -19,5 +19,7 @@ public class StringBuilddd {
             max = elem;
         }
         res.append("dksjddjdj - ").append(min).append("/n").append("hedgdkjf - ").append(max).append("/n");
+
+        System.out.println(res.toString());
     }
 }
