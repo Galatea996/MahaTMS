@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f67698d-dfe3-4039-9084-5976ac223ebe" name="Changes" comment="fgf2">
+    <list default="true" id="7f67698d-dfe3-4039-9084-5976ac223ebe" name="Changes" comment="fgf4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBuilddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringBuilddd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4bafe29b-3973-4554-a080-99a43846103f" />
+        <option name="url" value="https://github.com/Galatea996/MahaTMS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,18 +45,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test2" />
@@ -67,7 +80,13 @@
       <option name="presentableId" value="Default" />
       <updated>1691515196995</updated>
       <workItem from="1691515198212" duration="3343000" />
-      <workItem from="1691688089421" duration="3345000" />
+      <workItem from="1691688089421" duration="4296000" />
+      <workItem from="1692124683216" duration="636000" />
+      <workItem from="1692883727416" duration="42000" />
+      <workItem from="1693213550222" duration="55000" />
+      <workItem from="1693331998924" duration="620000" />
+      <workItem from="1693332636293" duration="2494000" />
+      <workItem from="1693500482092" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="fgf">
       <created>1691520534717</created>
@@ -90,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691690012260</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fgf3">
+      <created>1691691547551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691691547551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fgf4">
+      <created>1693500520123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693500520123</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fgf" />
     <MESSAGE value="fgf2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fgf2" />
+    <MESSAGE value="fgf3" />
+    <MESSAGE value="fgf4" />
+    <option name="LAST_COMMIT_MESSAGE" value="fgf4" />
   </component>
 </project>
