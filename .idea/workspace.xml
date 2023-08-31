@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f67698d-dfe3-4039-9084-5976ac223ebe" name="Changes" comment="fgf4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringBuilddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringBuilddd.java" afterDir="false" />
+    <list default="true" id="7f67698d-dfe3-4039-9084-5976ac223ebe" name="Changes" comment="StringBild;[''">
+      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <workItem from="1693213550222" duration="55000" />
       <workItem from="1693331998924" duration="620000" />
       <workItem from="1693332636293" duration="2494000" />
-      <workItem from="1693500482092" duration="1738000" />
+      <workItem from="1693500482092" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="fgf">
       <created>1691520534717</created>
@@ -123,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693500520123</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="StringBild">
+      <created>1693507827686</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693507827686</updated>
+    </task>
+    <task id="LOCAL-00007" summary="StringBild;[''">
+      <created>1693507955441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693507955441</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +147,8 @@
     <MESSAGE value="fgf2" />
     <MESSAGE value="fgf3" />
     <MESSAGE value="fgf4" />
-    <option name="LAST_COMMIT_MESSAGE" value="fgf4" />
+    <MESSAGE value="StringBild" />
+    <MESSAGE value="StringBild;[''" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringBild;[''" />
   </component>
 </project>
